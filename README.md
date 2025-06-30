@@ -4,6 +4,10 @@
 
 Aquí encontrarás proyectos, tareas, ejercicios, manuales, guías ... relacionados con la ciberseguridad.
 
+<p align="center">
+  <img src="https://github.com/Paulamc1695/cybersecurity/blob/main/ciberseguridad.png" width="120"/>
+</p>
+
 ---
 
 ## 🗂️ Carpetas
